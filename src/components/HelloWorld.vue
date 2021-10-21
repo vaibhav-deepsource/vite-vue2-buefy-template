@@ -12,12 +12,11 @@
 				>Windi CSS Documentation</a
 			>
 		</p>
-		<button
-			class="btn"
+		<b-button
 			@click="count++"
 		>
 			count is: {{ count }}
-		</button>
+		</b-button>
 		<p>
 			Edit
 			<code>components/HelloWorld.vue</code> to test hot module replacement.

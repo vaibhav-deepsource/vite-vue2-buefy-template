@@ -7,11 +7,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "buefy": "^0.9.10",
     "vue": "2.6.12",
     "vue-router": "3.5.1"
   },
   "devDependencies": {
-    "@vue/compiler-sfc": "^3.0.5",
     "vite": "^2.0.1",
     "vite-plugin-components": "0.7.3",
     "vite-plugin-vue2": "1.2.1",
